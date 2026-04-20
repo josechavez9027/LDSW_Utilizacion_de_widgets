@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Widgets Demo'),
+      home: const MyHomePage(title: 'Actividad 3.4. Utilización de widgets'),
     );
   }
 }
